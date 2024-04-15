@@ -41,5 +41,7 @@ This project is licensed under the MIT License.
 
 Special thanks to Akshata Murty for inspiring this project with her insightful fashion blog, and to the open-source community for their contributions to web development tools and resources.
 
+
+
 Enjoy exploring the Parallax Website and immerse yourself in the captivating world of global fashion trends! If you have any questions or feedback, feel free to reach out. Happy coding!
    
